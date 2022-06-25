@@ -3,9 +3,10 @@
 # LeetCode
 Solutions to Leet Code Problems
 
-* [Leet Code 75](#leetcode75)
-* [Programming Skills](#sql)
+* [LeetCode75](#leetcode75)
+* [ProgrammingSkills](#sql)
 
-## Leet Code 75
+## LeetCode75
 | Challenge | Difficulty | Solution |
 |:----------:|:---------:|:--------:|
+|[1480. Running Sum of 1d Array](https://leetcode.com/problems/find-pivot-index)|Easy|[Running Sum of 1d Array.java](leetcode75/Running-Sum-1d-Array.java)|
