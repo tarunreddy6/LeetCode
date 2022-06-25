@@ -3,7 +3,7 @@
 # LeetCode
 Solutions to Leet Code Problems
 
-* [Leet Code 75](#leetcode_75)
+* [Leet Code 75](#leetcode75)
 * [Programming Skills](#sql)
 
 ## Leet Code 75
